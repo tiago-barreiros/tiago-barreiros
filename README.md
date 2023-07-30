@@ -35,6 +35,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Makefile](https://img.shields.io/badge/-Makefile-333333?style=flat&logo=Makefile)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 ---
