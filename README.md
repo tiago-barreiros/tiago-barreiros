@@ -17,6 +17,7 @@
 ![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=LaTeX&logoColor=7FFF00)
 ![Assembly](https://img.shields.io/badge/-Assembly-333333?style=flat&logo=Assembly&logoColor=7FFF00)
 ![Arduíno](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino&logoColor=00979D)
+![OCaml](https://img.shields.io/badge/-OCaml-333333?style=flat&logo=OCaml)
 
 ---
 
