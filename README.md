@@ -32,6 +32,7 @@
 ![Overleaf](https://img.shields.io/badge/-Overleaf-333333?style=flat&logo=Overleaf&logoColor=7FFF00)
 ![Logisim](https://img.shields.io/badge/-Logisim-333333?style=flat&logo=Logisim&logoColor=7FFF00)
 ![Tikercad](https://img.shields.io/badge/-Tikercad-333333?style=flat&logo=Tikercad&logoColor=7FFF00)
+![Cisco](https://img.shields.io/badge/-Cisco-333333?style=flat&logo=Cisco)
 
 ---
 
