@@ -90,7 +90,7 @@ In the overview below you will find my recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="Câmara Municipal do Fundão (CMF)" src="https://cdn.discordapp.com/attachments/1050105332891926569/1135014731581763675/logo22.png"/>](https://movetofundao.pt/)
 
-**Software Engineer** \
+**Full Stack Developer** \
 [**Câmara Municipal do Fundão (CMF)**](https://movetofundao.pt/) • Full-time \
 Languages ​​& Technologies: `JavaScript`, `React`, `React Native`, `Node`, `Firebase`\
 Featured Projects: [Cowork Fundão](https://cowork-fundao.web.app/)
