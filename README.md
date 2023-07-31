@@ -18,6 +18,9 @@
 ![Assembly](https://img.shields.io/badge/-Assembly-333333?style=flat&logo=Assembly&logoColor=7FFF00)
 ![Arduíno](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino&logoColor=00979D)
 ![OCaml](https://img.shields.io/badge/-OCaml-333333?style=flat&logo=OCaml)
+![JavaFX](https://img.shields.io/badge/-JavaFX-333333?style=flat&logo=JavaFX)
+![Java Swing](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)
 
 ---
 
@@ -33,6 +36,10 @@
 ![Logisim](https://img.shields.io/badge/-Logisim-333333?style=flat&logo=Logisim&logoColor=7FFF00)
 ![Tikercad](https://img.shields.io/badge/-Tikercad-333333?style=flat&logo=Tikercad&logoColor=7FFF00)
 ![Cisco](https://img.shields.io/badge/-Cisco-333333?style=flat&logo=Cisco)
+![Apache NetBeans](https://img.shields.io/badge/-NetBeans-333333?style=flat&logo=Apache)
+![Microsoft SQL Server Management Studio](https://img.shields.io/badge/-Microsoft%20SQL%20Server-333333?style=flat&logo=Microsoft-SQL-Server)
+![MySQL Workbench 8.0 CE](https://img.shields.io/badge/-MySQL%20Workbench%208.0%20CE-333333?style=flat&logo=MySQL)
+![SQL Server Profiler 18](https://img.shields.io/badge/-SQL%20Server%20Profiler%2018-333333?style=flat&logo=MySQL)
 
 ---
 
