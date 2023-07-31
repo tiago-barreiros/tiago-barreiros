@@ -15,6 +15,8 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=LaTeX&logoColor=7FFF00)
+![Assembly](https://img.shields.io/badge/-Assembly-333333?style=flat&logo=Assembly&logoColor=7FFF00)
+![Arduíno](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino&logoColor=00979D)
 
 ---
 
@@ -27,6 +29,8 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 ![Overleaf](https://img.shields.io/badge/-Overleaf-333333?style=flat&logo=Overleaf&logoColor=7FFF00)
+![Logisim](https://img.shields.io/badge/-Logisim-333333?style=flat&logo=Logisim&logoColor=7FFF00)
+![Tikercad](https://img.shields.io/badge/-Tikercad-333333?style=flat&logo=Tikercad&logoColor=7FFF00)
 
 ---
 
