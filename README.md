@@ -21,6 +21,7 @@
 ![JavaFX](https://img.shields.io/badge/-JavaFX-333333?style=flat&logo=JavaFX)
 ![Java Swing](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
 ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 
 ---
 
