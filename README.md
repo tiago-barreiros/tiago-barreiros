@@ -19,7 +19,7 @@
 ![Arduíno](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino&logoColor=00979D)
 ![OCaml](https://img.shields.io/badge/-OCaml-333333?style=flat&logo=OCaml)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-333333?style=flat&logo=JavaFX)
-![Java Swing](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+![Java Swing](https://img.shields.io/badge/-Java%20Swing-333333?style=flat&logo=JAVA)
 ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 
