@@ -22,7 +22,6 @@
 ![Java Swing](https://img.shields.io/badge/-Java%20Swing-333333?style=flat&logo=JAVA)
 ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-![FXML](https://img.shields.io/badge/-FXML-333333?style=flat&logo=FXML)
 
 ---
 
