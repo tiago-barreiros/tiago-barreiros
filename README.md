@@ -22,6 +22,7 @@
 ![Java Swing](https://img.shields.io/badge/-Java%20Swing-333333?style=flat&logo=JAVA)
 ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+![FXML](https://img.shields.io/badge/-FXML-333333?style=flat&logo=FXML)
 
 ---
 
@@ -41,7 +42,7 @@
 ![Microsoft SQL Server Management Studio](https://img.shields.io/badge/-Microsoft%20SQL%20Server-333333?style=flat&logo=Microsoft-SQL-Server)
 ![MySQL Workbench 8.0 CE](https://img.shields.io/badge/-MySQL%20Workbench%208.0%20CE-333333?style=flat&logo=MySQL)
 ![SQL Server Profiler 18](https://img.shields.io/badge/-SQL%20Server%20Profiler%2018-333333?style=flat&logo=MySQL)
-
+![SceneBuilder](https://img.shields.io/badge/-SceneBuilder-333333?style=flat&logo=scenebuilder)
 ---
 
 ## 🪛 DevOps & Utilities:
