@@ -6,6 +6,8 @@
 
 ## 🧠 Languages:
 
+<div align="center">
+
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -25,9 +27,13 @@
 ![GLSL](https://img.shields.io/badge/-GLSL-333333?style=flat&logo=GLSL)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-333333?style=flat&logo=OpenGL)
 
----
+</div>
+
+<img src="https://github.com/BrenoFariasdaSilva/BrenoFariasdaSilva/blob/assets/.assets/NeonLine.gif" width="100%">
 
 ## 🔧 Tools:
+
+<div align="center">
 
 ![JetBrains](https://img.shields.io/badge/-JetBrains-333333?style=flat&logo=JetBrains&logoColor=fff)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -46,9 +52,14 @@
 ![SceneBuilder](https://img.shields.io/badge/-SceneBuilder-333333?style=flat&logo=scenebuilder)
 ![Visual-Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=Visual-Studio)
 ![Android-Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=Android-Studio)
----
+
+</div>
+
+<img src="https://github.com/BrenoFariasdaSilva/BrenoFariasdaSilva/blob/assets/.assets/NeonLine.gif" width="100%">
 
 ## 🪛 DevOps & Utilities:
+
+<div align="center">
 
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -56,9 +67,13 @@
 ![Makefile](https://img.shields.io/badge/-Makefile-333333?style=flat&logo=Makefile)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
----
+</div>
+
+<img src="https://github.com/BrenoFariasdaSilva/BrenoFariasdaSilva/blob/assets/.assets/NeonLine.gif" width="100%">
   
 ## 🚀 Preferences:
+
+<div align="center">
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
@@ -77,16 +92,27 @@
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></code>  
 
+</div>
+
 ---
 
   ### Contact me:
 
- <div> 
-   <a href = "mailto:tiago.m.barreiros@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <div>
+  <p align="center">
+   <a href = "mailto:tiago.m.barreiros@gmail.com"><img alt="c" height="30" width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    &nbsp;
   <a href="https://www.linkedin.com/in/tiago-barreiros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    &nbsp;
    <a href="https://discord.gg/537381363486031873" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+    &nbsp;
   <a href="https://www.youtube.com/@TMGBGamer" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    &nbsp;
   <a href="https://www.instagram.com/tiago.m.barreiros/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+&nbsp;
+    <a href="https://twitter.com/ManudosTigos"><img alt="c" height="30" width="120" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+    &nbsp;
+  </p>
 </div>
 
 ### Experience
