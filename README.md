@@ -22,6 +22,8 @@
 ![Java Swing](https://img.shields.io/badge/-Java%20Swing-333333?style=flat&logo=JAVA)
 ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+![GLSL](https://img.shields.io/badge/-GLSL-333333?style=flat&logo=GLSL)
+![OpenGL](https://img.shields.io/badge/-OpenGL-333333?style=flat&logo=OpenGL)
 
 ---
 
@@ -30,9 +32,9 @@
 ![JetBrains](https://img.shields.io/badge/-JetBrains-333333?style=flat&logo=JetBrains&logoColor=fff)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe)
 ![Overleaf](https://img.shields.io/badge/-Overleaf-333333?style=flat&logo=Overleaf&logoColor=7FFF00)
 ![Logisim](https://img.shields.io/badge/-Logisim-333333?style=flat&logo=Logisim&logoColor=7FFF00)
 ![Tikercad](https://img.shields.io/badge/-Tikercad-333333?style=flat&logo=Tikercad&logoColor=7FFF00)
@@ -42,6 +44,7 @@
 ![MySQL Workbench 8.0 CE](https://img.shields.io/badge/-MySQL%20Workbench%208.0%20CE-333333?style=flat&logo=MySQL)
 ![SQL Server Profiler 18](https://img.shields.io/badge/-SQL%20Server%20Profiler%2018-333333?style=flat&logo=MySQL)
 ![SceneBuilder](https://img.shields.io/badge/-SceneBuilder-333333?style=flat&logo=scenebuilder)
+![Visual-Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=Visual-Studio)
 ---
 
 ## 🪛 DevOps & Utilities:
