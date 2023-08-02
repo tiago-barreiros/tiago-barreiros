@@ -45,6 +45,7 @@
 ![SQL Server Profiler 18](https://img.shields.io/badge/-SQL%20Server%20Profiler%2018-333333?style=flat&logo=MySQL)
 ![SceneBuilder](https://img.shields.io/badge/-SceneBuilder-333333?style=flat&logo=scenebuilder)
 ![Visual-Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=Visual-Studio)
+![Android-Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=Android-Studio)
 ---
 
 ## 🪛 DevOps & Utilities:
