@@ -129,13 +129,13 @@
     &nbsp;
   <a href="https://www.linkedin.com/in/tiago-barreiros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     &nbsp;
-   <a href="https://discord.gg/537381363486031873" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+   <a href="https://discord.gg/_barreiros" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     &nbsp;
   <a href="https://www.youtube.com/@TMGBGamer" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     &nbsp;
   <a href="https://www.instagram.com/tiago.m.barreiros/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 &nbsp;
-    <a href="https://twitter.com/ManudosTigos"><img alt="c" height="30" width="120" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+    <a href="https://twitter.com/tmBarreiros"><img alt="c" height="30" width="120" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
     &nbsp;
   </p>
 </div>
@@ -144,12 +144,26 @@
 
 In the overview below you will find my recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Câmara Municipal do Fundão (CMF)" src="https://cdn.discordapp.com/attachments/1050105332891926569/1135014731581763675/logo22.png"/>](https://movetofundao.pt/)
+[<img align="left" height="94px" width="94px" alt="Câmara Municipal do Fundão (CMF)" src="https://cdn.discordapp.com/attachments/1050105332891926569/1135014731581763675/logo22.png?ex=66c93157&is=66c7dfd7&hm=1f5114aac7976e18a1fcd38bb8fcb5941b141c61712543b45e6e8593ca039fd7"/>](https://movetofundao.pt/)
 
 **Full Stack Developer** \
 [**Câmara Municipal do Fundão (CMF)**](https://movetofundao.pt/) • Full-time \
-Languages ​​& Technologies: `JavaScript`, `React`, `React Native`, `Node`, `Firebase`\
+Languages ​​& Technologies: `Firebase`, `JavaScript`, `Node`, `React`, `React Native`\
 Featured Projects: [Cowork Fundão](https://cowork-fundao.web.app/)
+
+[<img align="left" height="94px" width="94px" alt="Câmara Municipal de Alter do Chão (CMAC)" src="https://cdn.discordapp.com/attachments/1050105332891926569/1276493205482897511/brasao.png?ex=66c9ba70&is=66c868f0&hm=0c5942fed8e14df5fa7d2f635791841bcddc50eacf28d5b7d392dc1a43c883cf&"/>](https://cm-alter-chao.pt)
+
+**Systems and Information Technology Specialist** \
+[**Município de Alter do Chão (CMAC)**](https://cm-alter-chao.pt/) • Full-time \
+Languages ​​& Technologies: `AIRC`, `Cisco`, `Hyper-V`, `React`, `SQL`\
+Featured Projects: [Turismo Alter](#)
+
+[<img align="left" height="94px" width="94px" alt="C-Network" src="https://cdn.discordapp.com/attachments/1050105332891926569/1276496040765423666/447046331_915319057301038_6921213560069990365_n.jpg?ex=66c9bd14&is=66c86b94&hm=aebc5bbab0ebde6d257298c86f2cf12451d9710b0ac97a907636c08b87be4fb4&"/>](https://www.cncs.gov.pt/pt/c-network/)
+
+**Researcher and Developer** \
+[**Cybersecurity Competence Center (CCC)**](https://www.ccc-alentejo.pt/) • Part-time \
+Featured Projects: [Maturity](#), [Centro de Competências em Cibersegurança para a região Alentejo e Lezíria do Tejo](https://www.ccc-alentejo.pt/)
+
 <br/>
 <br/>
 
