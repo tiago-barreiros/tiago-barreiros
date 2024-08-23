@@ -165,6 +165,24 @@ Featured Projects: [Turismo Alter](#)
 Featured Projects: [Maturity](#), [Centro de Competências em Cibersegurança para a região Alentejo e Lezíria do Tejo](https://www.ccc-alentejo.pt/)
 
 <br/>
+
+### Education
+
+[<img align="left" height="94px" width="94px" alt="Universidade da Beira Interior (UBI)" src="https://cdn.discordapp.com/attachments/1050105332891926569/1276497277581787237/327227342_685532206644418_4493140593265198322_n.jpg?ex=66c9be3b&is=66c86cbb&hm=4df9c77d1019aafcaec70003e9cc75c6f11cc01478273f4a0e56325f14ecad7c&"/>](https://www.ubi.pt/)
+
+**Bachelor's Defree, Computer Science and Enginnering** \
+[**Universidade da Beira Interior (UBI)**](https://www.ubi.pt/) • 2020-23 \
+Final Project: Cowork-Fundão Reservation Management System\
+Concluded with grade: 19/20
+
+[<img align="left" height="94px" width="94px" alt="Instituto Superior Técnico (IST)" src="https://cdn.discordapp.com/attachments/1050105332891926569/1276497927916880003/IST_Logo.png?ex=66c9bed6&is=66c86d56&hm=8c9ab5518f68997a8fdf84e3619d0d51dafbef52d23ca3c6744cae1bdb1e478b&"/>](https://tecnico.ulisboa.pt/pt/)
+
+**M.Sc. in Artificial Intelligence and Ciber Security** \
+[**Instituto Superior Técnico (IST)**](https://tecnico.ulisboa.pt/pt/) • 2023- \
+Thesis: Maturity \
+Concluded with grade: -
+
+<br/>
 <br/>
 
 Please find me at [LinkedIn](https://www.linkedin.com/in/tiago-barreiros/) for a more detailed description of my work experience, education and certification.
