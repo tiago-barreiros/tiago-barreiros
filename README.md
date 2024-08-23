@@ -9,7 +9,7 @@
 <div align="center">
 
 ![Arduíno](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino&logoColor=00979D)
-![Assembly](https://img.shields.io/badge/-Assembly-333333?style=flat&logo=Assembly&logoColor=7FFF00)
+![Assembly](https://img.shields.io/badge/-Assembly-333333?style=flat&logo=Assembly)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
