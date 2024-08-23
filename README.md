@@ -2,7 +2,7 @@
 
 ><i class="latin">“Não trabalho para mim, trabalho para todos e todos trabalham para mim. Quem semeia, colhe.”</i>  - Nabeiro
 
-![](https://komarev.com/ghpvc/?username=tiago-barreiros&color=006bed)
+![](https://komarev.com/ghpvc/?username=tiago-barreiros&color=006bed) [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2BQfJdX6b2plGgtWdwf2Rd?si=c87e672497524a11) [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](#)
 
 ## 🧠 Languages:
 
@@ -12,21 +12,24 @@
 ![Assembly](https://img.shields.io/badge/-Assembly-333333?style=flat&logo=Assembly)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaFX](https://img.shields.io/badge/-JavaFX-333333?style=flat&logo=JavaFX)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=coffeescript)
+![JavaFX](https://img.shields.io/badge/-JavaFX-333333?style=flat&logo=Oracle)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 ![Java Swing](https://img.shields.io/badge/-Java%20Swing-333333?style=flat&logo=JAVA)
+[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=LaTeX&logoColor=7FFF00)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
-![OCaml](https://img.shields.io/badge/-OCaml-333333?style=flat&logo=OCaml)
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff)](#)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-333333?style=flat&logo=OpenGL)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 
 </div>
 
@@ -36,23 +39,37 @@
 
 <div align="center">
 
-![JetBrains](https://img.shields.io/badge/-JetBrains-333333?style=flat&logo=JetBrains&logoColor=fff)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe)
-![Overleaf](https://img.shields.io/badge/-Overleaf-333333?style=flat&logo=Overleaf&logoColor=7FFF00)
-![Logisim](https://img.shields.io/badge/-Logisim-333333?style=flat&logo=Logisim&logoColor=7FFF00)
-![Tikercad](https://img.shields.io/badge/-Tikercad-333333?style=flat&logo=Tikercad&logoColor=7FFF00)
-![Cisco](https://img.shields.io/badge/-Cisco-333333?style=flat&logo=Cisco)
+![Android-Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=Android-Studio)
 ![Apache NetBeans](https://img.shields.io/badge/-NetBeans-333333?style=flat&logo=Apache)
+[![Audacity](https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=white)](#)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
+![Cisco](https://img.shields.io/badge/-Cisco-333333?style=flat&logo=Cisco)
+[![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#)
+[![iCloud](https://img.shields.io/badge/iCloud-3693F3?logo=icloud&logoColor=fff)](#)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
+![JetBrains](https://img.shields.io/badge/-JetBrains-333333?style=flat&logo=JetBrains&logoColor=fff)
+![Logisim](https://img.shields.io/badge/-Logisim-333333?style=flat&logo=Logisim&logoColor=7FFF00)
 ![Microsoft SQL Server Management Studio](https://img.shields.io/badge/-Microsoft%20SQL%20Server-333333?style=flat&logo=Microsoft-SQL-Server)
 ![MySQL Workbench 8.0 CE](https://img.shields.io/badge/-MySQL%20Workbench%208.0%20CE-333333?style=flat&logo=MySQL)
-![SQL Server Profiler 18](https://img.shields.io/badge/-SQL%20Server%20Profiler%2018-333333?style=flat&logo=MySQL)
+[![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white)](#)
+[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
+![Overleaf](https://img.shields.io/badge/-Overleaf-333333?style=flat&logo=Overleaf&logoColor=7FFF00)
+[![PhpStorm](https://img.shields.io/badge/PhpStorm-000?logo=phpstorm&logoColor=fff)](#)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
 ![SceneBuilder](https://img.shields.io/badge/-SceneBuilder-333333?style=flat&logo=scenebuilder)
-![Visual-Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=Visual-Studio)
-![Android-Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=Android-Studio)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
+![SQL Server Profiler 18](https://img.shields.io/badge/-SQL%20Server%20Profiler%2018-333333?style=flat&logo=MySQL)
+![Tikercad](https://img.shields.io/badge/-Tikercad-333333?style=flat&logo=Tikercad&logoColor=7FFF00)
+[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-333333?style=flat&logo=virtualbox)
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+![vmware](https://img.shields.io/badge/-VMware-333333?style=flat&logo=vmware)
+[![WebStorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff)](#)
 
 </div>
 
@@ -62,11 +79,19 @@
 
 <div align="center">
 
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 ![Makefile](https://img.shields.io/badge/-Makefile-333333?style=flat&logo=Makefile)
+![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=NPM)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)](#
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 
 </div>
 
@@ -131,3 +156,8 @@ Featured Projects: [Cowork Fundão](https://cowork-fundao.web.app/)
 
 Please find me at [LinkedIn](https://www.linkedin.com/in/tiago-barreiros/) for a more detailed description of my work experience, education and certification.
 
+---
+
+  ### Suport me:
+
+  [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](#) [![Github Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-30363D?&logo=GitHub-Sponsors&logoColor=EA4AAA)](#) [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](#) [![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](#)
