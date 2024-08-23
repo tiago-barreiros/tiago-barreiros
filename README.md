@@ -177,7 +177,7 @@ Concluded with grade: 19/20
 
 [<img align="left" height="94px" width="94px" alt="Instituto Superior Técnico (IST)" src="https://cdn.discordapp.com/attachments/1050105332891926569/1276497927916880003/IST_Logo.png?ex=66c9bed6&is=66c86d56&hm=8c9ab5518f68997a8fdf84e3619d0d51dafbef52d23ca3c6744cae1bdb1e478b&"/>](https://tecnico.ulisboa.pt/pt/)
 
-**M.Sc. in Artificial Intelligence and Ciber Security** \
+**M.Sc. in Artificial Intelligence and Cybersecurity** \
 [**Instituto Superior Técnico (IST)**](https://tecnico.ulisboa.pt/pt/) • 2023- \
 Thesis: Maturity \
 Concluded with grade: -
@@ -189,6 +189,6 @@ Please find me at [LinkedIn](https://www.linkedin.com/in/tiago-barreiros/) for a
 
 ---
 
-  ### Suport me:
+  ### Support me:
 
   [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tiago.barreiros) [![Github Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-30363D?&logo=GitHub-Sponsors&logoColor=EA4AAA)](#) [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](#) [![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](#)
