@@ -162,7 +162,7 @@ Featured Projects: [Turismo Alter](#)
 
 **Researcher and Developer** \
 [**Cybersecurity Competence Center (CCC)**](https://www.ccc-alentejo.pt/) • Part-time \
-Featured Projects: [Maturity](#), [Centro de Competências em Cibersegurança para a região Alentejo e Lezíria do Tejo](https://www.ccc-alentejo.pt/)
+Featured Projects: [Cibersecurity Maturity Assessment](#), [Centro de Competências em Cibersegurança para a região Alentejo e Lezíria do Tejo](https://www.ccc-alentejo.pt/)
 
 <br/>
 
@@ -179,7 +179,7 @@ Concluded with grade: 19/20
 
 **M.Sc. in Artificial Intelligence and Cybersecurity** \
 [**Instituto Superior Técnico (IST)**](https://tecnico.ulisboa.pt/pt/) • 2023- \
-Thesis: Maturity \
+Thesis: Cibersecurity Maturity Assessment \
 Concluded with grade: -
 
 <br/>
