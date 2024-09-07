@@ -144,21 +144,21 @@
 
 In the overview below you will find my recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Câmara Municipal do Fundão (CMF)" src="https://cdn.discordapp.com/attachments/1050105332891926569/1135014731581763675/logo22.png?ex=66c93157&is=66c7dfd7&hm=1f5114aac7976e18a1fcd38bb8fcb5941b141c61712543b45e6e8593ca039fd7"/>](https://movetofundao.pt/)
+[<img align="left" height="94px" width="94px" alt="Câmara Municipal do Fundão (CMF)" src="https://github.com/user-attachments/assets/76f90912-f41a-4251-a5a0-bbe40aca66cd"/>](https://movetofundao.pt/)
 
 **Full Stack Developer** \
 [**Câmara Municipal do Fundão (CMF)**](https://movetofundao.pt/) • Full-time \
 Languages ​​& Technologies: `Firebase`, `JavaScript`, `Node`, `React`, `React Native`\
 Featured Projects: [Cowork Fundão](https://cowork-fundao.web.app/)
 
-[<img align="left" height="94px" width="94px" alt="Câmara Municipal de Alter do Chão (CMAC)" src="https://cdn.discordapp.com/attachments/1050105332891926569/1276493205482897511/brasao.png?ex=66c9ba70&is=66c868f0&hm=0c5942fed8e14df5fa7d2f635791841bcddc50eacf28d5b7d392dc1a43c883cf&"/>](https://cm-alter-chao.pt)
+[<img align="left" height="94px" width="94px" alt="Câmara Municipal de Alter do Chão (CMAC)" src="https://github.com/user-attachments/assets/6c179895-f53d-45d2-b453-e50508086a03"/>](https://cm-alter-chao.pt)
 
 **Systems and Information Technology Specialist** \
 [**Município de Alter do Chão (CMAC)**](https://cm-alter-chao.pt/) • Full-time \
 Languages ​​& Technologies: `AIRC`, `Cisco`, `Hyper-V`, `React`, `SQL`\
 Featured Projects: [Turismo Alter](#)
 
-[<img align="left" height="94px" width="94px" alt="C-Network" src="https://cdn.discordapp.com/attachments/1050105332891926569/1276496040765423666/447046331_915319057301038_6921213560069990365_n.jpg?ex=66c9bd14&is=66c86b94&hm=aebc5bbab0ebde6d257298c86f2cf12451d9710b0ac97a907636c08b87be4fb4&"/>](https://www.cncs.gov.pt/pt/c-network/)
+[<img align="left" height="94px" width="94px" alt="C-Network" src="https://github.com/user-attachments/assets/130e84b3-ddbf-43f8-a7b7-aad89c66534f"/>](https://www.cncs.gov.pt/pt/c-network/)
 
 **Researcher and Developer** \
 [**Cybersecurity Competence Center (CCC)**](https://www.ccc-alentejo.pt/) • Part-time \
@@ -168,14 +168,14 @@ Featured Projects: [Maturity](#), [Centro de Competências em Cibersegurança pa
 
 ### Education
 
-[<img align="left" height="94px" width="94px" alt="Universidade da Beira Interior (UBI)" src="https://cdn.discordapp.com/attachments/1050105332891926569/1276497277581787237/327227342_685532206644418_4493140593265198322_n.jpg?ex=66c9be3b&is=66c86cbb&hm=4df9c77d1019aafcaec70003e9cc75c6f11cc01478273f4a0e56325f14ecad7c&"/>](https://www.ubi.pt/)
+[<img align="left" height="94px" width="94px" alt="Universidade da Beira Interior (UBI)" src="https://github.com/user-attachments/assets/db72d3a2-913d-45b2-8d3e-60a34406cde8"/>](https://www.ubi.pt/)
 
 **Bachelor's Defree, Computer Science and Enginnering** \
 [**Universidade da Beira Interior (UBI)**](https://www.ubi.pt/) • 2020-23 \
 Final Project: Cowork-Fundão Reservation Management System\
 Concluded with grade: 19/20
 
-[<img align="left" height="94px" width="94px" alt="Instituto Superior Técnico (IST)" src="https://cdn.discordapp.com/attachments/1050105332891926569/1276497927916880003/IST_Logo.png?ex=66c9bed6&is=66c86d56&hm=8c9ab5518f68997a8fdf84e3619d0d51dafbef52d23ca3c6744cae1bdb1e478b&"/>](https://tecnico.ulisboa.pt/pt/)
+[<img align="left" height="94px" width="94px" alt="Instituto Superior Técnico (IST)" src="https://github.com/user-attachments/assets/27cfd6db-8a02-4e60-8691-bd1ef33d5d47"/>](https://tecnico.ulisboa.pt/pt/)
 
 **M.Sc. in Artificial Intelligence and Cybersecurity** \
 [**Instituto Superior Técnico (IST)**](https://tecnico.ulisboa.pt/pt/) • 2023- \
