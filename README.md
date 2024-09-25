@@ -2,7 +2,7 @@
 
 ><i class="latin">“Não trabalho para mim, trabalho para todos e todos trabalham para mim. Quem semeia, colhe.”</i>  - Nabeiro
 
-![](https://komarev.com/ghpvc/?username=tiago-barreiros&color=006bed) [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2BQfJdX6b2plGgtWdwf2Rd?si=c87e672497524a11) [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/tiagobarreiros)
+![](https://komarev.com/ghpvc/?username=tiago-barreiros&color=006bed) [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://tiagobarreiros.com) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2BQfJdX6b2plGgtWdwf2Rd?si=c87e672497524a11) [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/tiagobarreiros)
 
 ## 🧠 Languages:
 
